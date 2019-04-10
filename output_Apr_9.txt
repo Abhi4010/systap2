@@ -1,0 +1,703 @@
+Time: 2099892 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 37
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 2637022 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 34
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 4017724 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 43
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 4814863 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 42
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 5212268 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 25
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 5659277 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 42
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 5851590 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 42
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 6027556 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 42
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 6187560 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 43
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 6347795 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 42
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 7178652 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 24
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 8635816 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 42
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 8810862 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 42
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 8987114 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 43
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 9163578 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 43
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 9339689 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 38
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 10747853 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 41
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 11019325 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 42
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 11227057 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 39
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 11755683 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 42
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 11931495 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 43
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 12091351 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 43
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 12619748 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 44
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 12714683 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 43
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 13227610 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 42
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 13563272 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 42
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 13739350 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 39
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 13915624 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 41
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 14123454 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 43
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 14816117 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 65
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 15130560 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 24
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 15243284 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 42
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 15963430 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 22
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 16539986 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 52
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 16939680 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 43
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 17131521 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 42
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 17611554 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 42
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 17966671 PID: 2305  ExecName: (bash) File: "/dev/null"  read: 0 bytes  write: 0 bytes  
+
+Time: 17967434 PID: 2305  ExecName: (bash) File: "/dev/null"  read: 0 bytes  write: 0 bytes  
+
+Time: 17969216 PID: 2684  ExecName: (bash) File: "."  read: 0 bytes  write: 0 bytes  
+
+Time: 17970900 PID: 2685  ExecName: (bash) File: "."  read: 0 bytes  write: 0 bytes  
+
+Time: 17971370 PID: 2305  ExecName: (bash) File: "/tmp/sh-thd.fXI8yY"  read: 0 bytes  write: 82 bytes  IOTime: 33
+VFSReadSize:0  VFSReadCount:2  
+VFSReadSize:24  VFSReadCount:1  
+VFSReadSize:18  VFSReadCount:1  
+VFSReadSize:23  VFSReadCount:1  
+VFSReadSize:17  VFSReadCount:1  
+
+
+Time: 17971408 PID: 2305  ExecName: (bash) File: "/tmp/sh-thd.fXI8yY"  read: 0 bytes  write: 0 bytes  
+
+Time: 17971557 PID: 2305  ExecName: (bash) File: "/dev/null"  read: 0 bytes  write: 0 bytes  
+
+Time: 17982636 PID: 991  ExecName: (pulseaudio) File: "/dev/snd/controlC0"  read: 0 bytes  write: 0 bytes  
+
+Time: 17983879 PID: 991  ExecName: (alsa-sink-Intel) File: "/dev/snd/controlC0"  read: 0 bytes  write: 0 bytes  
+
+Time: 17983925 PID: 991  ExecName: (alsa-sink-Intel) File: "/dev/snd/controlC0"  read: 0 bytes  write: 0 bytes  
+
+Time: 17983947 PID: 991  ExecName: (alsa-sink-Intel) File: "/dev/snd/controlC0"  read: 0 bytes  write: 0 bytes  
+
+Time: 17984009 PID: 991  ExecName: (alsa-sink-Intel) File: "/dev/snd/controlC0"  read: 0 bytes  write: 0 bytes  
+
+Time: 17984046 PID: 991  ExecName: (alsa-sink-Intel) File: "/dev/snd/controlC0"  read: 0 bytes  write: 0 bytes  
+
+Time: 17984089 PID: 991  ExecName: (alsa-sink-Intel) File: "/dev/snd/controlC0"  read: 0 bytes  write: 0 bytes  
+
+Time: 17984127 PID: 991  ExecName: (alsa-sink-Intel) File: "/dev/snd/controlC0"  read: 0 bytes  write: 0 bytes  
+
+Time: 17984147 PID: 991  ExecName: (alsa-sink-Intel) File: "/dev/snd/controlC0"  read: 0 bytes  write: 0 bytes  
+
+Time: 18025106 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 28
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 18256031 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 32
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 19132898 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 25
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 19455125 PID: 2305  ExecName: (bash) File: "/dev/null"  read: 0 bytes  write: 0 bytes  
+
+Time: 19455897 PID: 2305  ExecName: (bash) File: "/dev/null"  read: 0 bytes  write: 0 bytes  
+
+Time: 19458389 PID: 2686  ExecName: (bash) File: "."  read: 0 bytes  write: 0 bytes  
+
+Time: 19460026 PID: 2687  ExecName: (bash) File: "."  read: 0 bytes  write: 0 bytes  
+
+Time: 19460918 PID: 2305  ExecName: (bash) File: "/tmp/sh-thd.T4sVvS"  read: 0 bytes  write: 40 bytes  IOTime: 57
+VFSReadSize:0  VFSReadCount:2  
+VFSReadSize:23  VFSReadCount:1  
+VFSReadSize:17  VFSReadCount:1  
+
+
+Time: 19460991 PID: 2305  ExecName: (bash) File: "/tmp/sh-thd.T4sVvS"  read: 0 bytes  write: 0 bytes  
+
+Time: 19461234 PID: 2305  ExecName: (bash) File: "/dev/null"  read: 0 bytes  write: 0 bytes  
+
+Time: 19478069 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 25
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 19720430 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 36
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 20027501 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 45
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 21691385 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 38
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 22398612 PID: 2688  ExecName: (filebench) File: "/etc/ld.so.cache"  read: 0 bytes  write: 0 bytes  VFSReadSize:0  VFSReadCount:1  
+
+
+Time: 22398719 PID: 2688  ExecName: (filebench) File: "/lib/x86_64-linux-gnu/libdl.so.2"  read: 832 bytes  write: 0 bytes  IOTime: 11
+VFSReadSize:832  VFSReadCount:1  
+TotalVFSReadSize:1  
+
+Time: 22398824 PID: 2688  ExecName: (filebench) File: "/lib/x86_64-linux-gnu/libpthread.so.0"  read: 832 bytes  write: 0 bytes  IOTime: 9
+VFSReadSize:832  VFSReadCount:1  
+TotalVFSReadSize:1  
+
+Time: 22398919 PID: 2688  ExecName: (filebench) File: "/lib/x86_64-linux-gnu/libm.so.6"  read: 832 bytes  write: 0 bytes  IOTime: 9
+VFSReadSize:832  VFSReadCount:1  
+TotalVFSReadSize:1  
+
+Time: 22399012 PID: 2688  ExecName: (filebench) File: "/lib/x86_64-linux-gnu/librt.so.1"  read: 832 bytes  write: 0 bytes  IOTime: 9
+VFSReadSize:832  VFSReadCount:1  
+TotalVFSReadSize:1  
+
+Time: 22399110 PID: 2688  ExecName: (filebench) File: "/lib/x86_64-linux-gnu/libc.so.6"  read: 832 bytes  write: 0 bytes  IOTime: 9
+VFSReadSize:832  VFSReadCount:1  
+TotalVFSReadSize:1  
+
+Time: 22399699 PID: 2688  ExecName: (filebench) File: "/proc/sys/kernel/shmmax"  read: 0 bytes  write: 0 bytes  IOTime: 5
+
+
+Time: 22474546 PID: 2688  ExecName: (filebench) File: "/usr/local/share/filebench/cvars"  read: 0 bytes  write: 0 bytes  
+
+Time: 22474619 PID: 2688  ExecName: (filebench) File: "/usr/local/share/filebench/cvars/libcvar-normal.so"  read: 832 bytes  write: 0 bytes  IOTime: 8
+VFSReadSize:832  VFSReadCount:1  
+TotalVFSReadSize:1  
+
+Time: 22474711 PID: 2688  ExecName: (filebench) File: "/usr/local/share/filebench/cvars/libcvar-uniform.so"  read: 832 bytes  write: 0 bytes  IOTime: 5
+VFSReadSize:832  VFSReadCount:1  
+TotalVFSReadSize:1  
+
+Time: 22474810 PID: 2688  ExecName: (filebench) File: "/usr/local/share/filebench/cvars/libcvar-exponential.so"  read: 832 bytes  write: 0 bytes  IOTime: 5
+VFSReadSize:832  VFSReadCount:1  
+TotalVFSReadSize:1  
+
+Time: 22474935 PID: 2688  ExecName: (filebench) File: "/usr/local/share/filebench/cvars/libcvar-gamma.so"  read: 832 bytes  write: 0 bytes  IOTime: 15
+VFSReadSize:832  VFSReadCount:1  
+TotalVFSReadSize:1  
+
+Time: 22475009 PID: 2688  ExecName: (filebench) File: "/usr/local/share/filebench/cvars/libcvar-lognormal.so"  read: 832 bytes  write: 0 bytes  IOTime: 6
+VFSReadSize:832  VFSReadCount:1  
+TotalVFSReadSize:1  
+
+Time: 22475079 PID: 2688  ExecName: (filebench) File: "/usr/local/share/filebench/cvars/libcvar-weibull.so"  read: 832 bytes  write: 0 bytes  IOTime: 5
+VFSReadSize:832  VFSReadCount:1  
+TotalVFSReadSize:1  
+
+Time: 22475165 PID: 2688  ExecName: (filebench) File: "/usr/local/share/filebench/cvars/libcvar-triangular.so"  read: 832 bytes  write: 0 bytes  IOTime: 5
+VFSReadSize:832  VFSReadCount:1  
+TotalVFSReadSize:1  
+
+Time: 22475231 PID: 2688  ExecName: (filebench) File: "/usr/local/share/filebench/cvars/libcvar-erlang.so"  read: 832 bytes  write: 0 bytes  IOTime: 5
+VFSReadSize:832  VFSReadCount:1  
+TotalVFSReadSize:1  
+
+Time: 22481783 PID: 2690  ExecName: (sh) File: "/etc/ld.so.cache"  read: 0 bytes  write: 0 bytes  
+
+Time: 22481845 PID: 2690  ExecName: (sh) File: "/lib/x86_64-linux-gnu/libc.so.6"  read: 832 bytes  write: 0 bytes  IOTime: 6
+VFSReadSize:832  VFSReadCount:1  
+TotalVFSReadSize:1  
+
+Time: 22482285 PID: 2691  ExecName: (rm) File: "/etc/ld.so.cache"  read: 0 bytes  write: 0 bytes  
+
+Time: 22482334 PID: 2691  ExecName: (rm) File: "/lib/x86_64-linux-gnu/libc.so.6"  read: 832 bytes  write: 0 bytes  IOTime: 5
+VFSReadSize:832  VFSReadCount:1  
+TotalVFSReadSize:1  
+
+Time: 22482510 PID: 2691  ExecName: (rm) File: "/usr/lib/locale/locale-archive"  read: 0 bytes  write: 0 bytes  
+
+Time: 22655247 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 40
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 24464698 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 33
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 24672075 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 25
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 24726523 PID: 991  ExecName: (alsa-sink-Intel) File: "/dev/snd/timer"  read: 6464 bytes  write: 0 bytes  IOTime: 4224
+VFSReadSize:32  VFSReadCount:202  
+TotalVFSReadSize:202  
+
+Time: 24726556 PID: 991  ExecName: (alsa-sink-Intel) File: "/dev/snd/pcmC0D0p"  read: 0 bytes  write: 0 bytes  
+
+Time: 24836099 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 21
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 27698126 PID: 1132  ExecName: (gsd-housekeepin) File: "/etc/fstab"  read: 550 bytes  write: 0 bytes  IOTime: 125261
+VFSReadSize:550  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 27711703 PID: 1125  ExecName: (gsd-color) File: "/etc/localtime"  read: 0 bytes  write: 0 bytes  
+
+Time: 27714966 PID: 1132  ExecName: (gsd-housekeepin) File: "/proc/self/mountinfo"  read: 5240 bytes  write: 0 bytes  IOTime: 223
+VFSReadSize:1024  VFSReadCount:5  
+VFSReadSize:120  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 6  ByteSequentiallyRead: 4216  TotalVFSReadSize:7  
+
+Time: 27715035 PID: 1132  ExecName: (gsd-housekeepin) File: "/run/mount/utab"  read: 1611 bytes  write: 0 bytes  IOTime: 10
+VFSReadSize:1611  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 27734835 PID: 1125  ExecName: (gsd-color) File: "/etc/localtime"  read: 0 bytes  write: 0 bytes  
+
+Time: 30477400 PID: 2688  ExecName: (filebench) File: "/tmp/largefile5/00000001/00000001"  read: 0 bytes  write: 1073741824 bytes  IOTime: 7984185
+
+
+Time: 30734587 PID: 2692  ExecName: (sh) File: "/etc/ld.so.cache"  read: 0 bytes  write: 0 bytes  
+
+Time: 30769590 PID: 2692  ExecName: (sh) File: "/lib/x86_64-linux-gnu/libc.so.6"  read: 832 bytes  write: 0 bytes  IOTime: 16
+VFSReadSize:832  VFSReadCount:1  
+TotalVFSReadSize:1  
+
+Time: 30828625 PID: 2693  ExecName: (rm) File: "/etc/ld.so.cache"  read: 0 bytes  write: 0 bytes  
+
+Time: 30828699 PID: 2693  ExecName: (rm) File: "/lib/x86_64-linux-gnu/libc.so.6"  read: 832 bytes  write: 0 bytes  IOTime: 7
+VFSReadSize:832  VFSReadCount:1  
+TotalVFSReadSize:1  
+
+Time: 30838966 PID: 2693  ExecName: (rm) File: "/usr/lib/locale/locale-archive"  read: 0 bytes  write: 0 bytes  
+
+Time: 33687109 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 22
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 34164892 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 31
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 34818086 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 34
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 35035872 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 35
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 35413822 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 42
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 35807092 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 21
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 36144034 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 26
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 36515608 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 36
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 39796579 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 29
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 40384287 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 27
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 40386195 PID: 961  ExecName: (gnome-shell) File: "/proc/1538/attr/current"  read: 11 bytes  write: 0 bytes  IOTime: 16
+VFSReadSize:11  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 40507151 PID: 961  ExecName: (gnome-shell) File: "/proc/1538/attr/current"  read: 11 bytes  write: 0 bytes  IOTime: 26
+VFSReadSize:11  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 40545667 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 24
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 41698017 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 33
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 43073681 PID: 1750  ExecName: (chrome) File: "/proc/vmstat"  read: 2710 bytes  write: 0 bytes  IOTime: 336
+VFSReadSize:2710  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 44819934 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 51
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 46749436 PID: 2688  ExecName: (filebench) File: "/tmp/largefile4/00000001/00000001"  read: 0 bytes  write: 1073741824 bytes  IOTime: 15723856
+
+
+Time: 47084073 PID: 2695  ExecName: (sh) File: "/etc/ld.so.cache"  read: 0 bytes  write: 0 bytes  
+
+Time: 47093688 PID: 2695  ExecName: (sh) File: "/lib/x86_64-linux-gnu/libc.so.6"  read: 832 bytes  write: 0 bytes  IOTime: 16
+VFSReadSize:832  VFSReadCount:1  
+TotalVFSReadSize:1  
+
+Time: 47277451 PID: 2696  ExecName: (rm) File: "/etc/ld.so.cache"  read: 0 bytes  write: 0 bytes  
+
+Time: 47277546 PID: 2696  ExecName: (rm) File: "/lib/x86_64-linux-gnu/libc.so.6"  read: 832 bytes  write: 0 bytes  IOTime: 18
+VFSReadSize:832  VFSReadCount:1  
+TotalVFSReadSize:1  
+
+Time: 47979840 PID: 2696  ExecName: (rm) File: "/usr/lib/locale/locale-archive"  read: 0 bytes  write: 0 bytes  
+
+Time: 54071088 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 22
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 54529100 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 35
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 54631705 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 53
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 54821111 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 55
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 55027776 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 42
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 55243441 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 35
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 55547943 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 41
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 55721169 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 21
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 55834618 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 20
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 56797393 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 36
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 56799916 PID: 961  ExecName: (gnome-shell) File: "/proc/1538/attr/current"  read: 11 bytes  write: 0 bytes  IOTime: 15
+VFSReadSize:11  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 56982691 PID: 961  ExecName: (gnome-shell) File: "/proc/1538/attr/current"  read: 11 bytes  write: 0 bytes  IOTime: 14
+VFSReadSize:11  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 57037032 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 21
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 57212052 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 23
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 57240425 PID: 961  ExecName: (gnome-shell) File: "/proc/1538/attr/current"  read: 11 bytes  write: 0 bytes  IOTime: 16
+VFSReadSize:11  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 57312452 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 50
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 57413296 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 56
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 57806065 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 46
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 58159474 PID: 961  ExecName: (gnome-shell) File: "/proc/self/stat"  read: 342 bytes  write: 0 bytes  IOTime: 36
+VFSReadSize:342  VFSReadCount:1  
+VFSReadSize:0  VFSReadCount:1  
+VFSSequencialRead: 1  TotalVFSReadSize:2  
+
+Time: 60028103 PID: 1  ExecName: (systemd) File: "/proc/604/cgroup"  read: 303 bytes  write: 0 bytes  IOTime: 43
+VFSReadSize:303  VFSReadCount:1  
+TotalVFSReadSize:1  
+
+
+
+
+..............................File Read Summery............................
+
+
+File: "/proc/self/stat"  SizeB: 26334  IOTime: 2851  IOTimePerKB: 110
+File: "/lib/x86_64-linux-gnu/libdl.so.2"  SizeB: 832  IOTime: 11  IOTimePerKB: 13
+File: "/lib/x86_64-linux-gnu/libpthread.so.0"  SizeB: 832  IOTime: 9  IOTimePerKB: 11
+File: "/lib/x86_64-linux-gnu/libm.so.6"  SizeB: 832  IOTime: 9  IOTimePerKB: 11
+File: "/lib/x86_64-linux-gnu/librt.so.1"  SizeB: 832  IOTime: 9  IOTimePerKB: 11
+File: "/lib/x86_64-linux-gnu/libc.so.6"  SizeB: 5824  IOTime: 77  IOTimePerKB: 13
+File: "/usr/local/share/filebench/cvars/libcvar-normal.so"  SizeB: 832  IOTime: 8  IOTimePerKB: 9
+File: "/usr/local/share/filebench/cvars/libcvar-uniform.so"  SizeB: 832  IOTime: 5  IOTimePerKB: 6
+File: "/usr/local/share/filebench/cvars/libcvar-exponential.so"  SizeB: 832  IOTime: 5  IOTimePerKB: 6
+File: "/usr/local/share/filebench/cvars/libcvar-gamma.so"  SizeB: 832  IOTime: 15  IOTimePerKB: 18
+File: "/usr/local/share/filebench/cvars/libcvar-lognormal.so"  SizeB: 832  IOTime: 6  IOTimePerKB: 7
+File: "/usr/local/share/filebench/cvars/libcvar-weibull.so"  SizeB: 832  IOTime: 5  IOTimePerKB: 6
+File: "/usr/local/share/filebench/cvars/libcvar-triangular.so"  SizeB: 832  IOTime: 5  IOTimePerKB: 6
+File: "/usr/local/share/filebench/cvars/libcvar-erlang.so"  SizeB: 832  IOTime: 5  IOTimePerKB: 6
+File: "/dev/snd/timer"  SizeB: 6464  IOTime: 4224  IOTimePerKB: 669
+File: "/etc/fstab"  SizeB: 550  IOTime: 125261  IOTimePerKB: 233213
+File: "/proc/self/mountinfo"  SizeB: 5240  IOTime: 223  IOTimePerKB: 43
+File: "/run/mount/utab"  SizeB: 1611  IOTime: 10  IOTimePerKB: 6
+File: "/proc/1538/attr/current"  SizeB: 55  IOTime: 87  IOTimePerKB: 1619
+File: "/proc/vmstat"  SizeB: 2710  IOTime: 336  IOTimePerKB: 126
+File: "/proc/604/cgroup"  SizeB: 303  IOTime: 43  IOTimePerKB: 145
+
+
+
+..............................File Read count............................
+
+
+File: "/proc/self/stat"  NoOfTimesRead: 77 
+File: "/lib/x86_64-linux-gnu/libdl.so.2"  NoOfTimesRead: 1 
+File: "/lib/x86_64-linux-gnu/libpthread.so.0"  NoOfTimesRead: 1 
+File: "/lib/x86_64-linux-gnu/libm.so.6"  NoOfTimesRead: 1 
+File: "/lib/x86_64-linux-gnu/librt.so.1"  NoOfTimesRead: 1 
+File: "/lib/x86_64-linux-gnu/libc.so.6"  NoOfTimesRead: 7 
+File: "/usr/local/share/filebench/cvars/libcvar-normal.so"  NoOfTimesRead: 1 
+File: "/usr/local/share/filebench/cvars/libcvar-uniform.so"  NoOfTimesRead: 1 
+File: "/usr/local/share/filebench/cvars/libcvar-exponential.so"  NoOfTimesRead: 1 
+File: "/usr/local/share/filebench/cvars/libcvar-gamma.so"  NoOfTimesRead: 1 
+File: "/usr/local/share/filebench/cvars/libcvar-lognormal.so"  NoOfTimesRead: 1 
+File: "/usr/local/share/filebench/cvars/libcvar-weibull.so"  NoOfTimesRead: 1 
+File: "/usr/local/share/filebench/cvars/libcvar-triangular.so"  NoOfTimesRead: 1 
+File: "/usr/local/share/filebench/cvars/libcvar-erlang.so"  NoOfTimesRead: 1 
+File: "/dev/snd/timer"  NoOfTimesRead: 1 
+File: "/etc/fstab"  NoOfTimesRead: 1 
+File: "/proc/self/mountinfo"  NoOfTimesRead: 1 
+File: "/run/mount/utab"  NoOfTimesRead: 1 
+File: "/proc/1538/attr/current"  NoOfTimesRead: 5 
+File: "/proc/vmstat"  NoOfTimesRead: 1 
+File: "/proc/604/cgroup"  NoOfTimesRead: 1 
+
+
+
+..............................Write Summery............................
+
+
+File: "/tmp/sh-thd.fXI8yY"  SizeB: 82  IOTime: 33  IOTimePerKB: 412
+File: "/tmp/sh-thd.T4sVvS"  SizeB: 40  IOTime: 57  IOTimePerKB: 1459
+File: "/tmp/largefile5/00000001/00000001"  SizeB: 1073741824  IOTime: 7984185  IOTimePerKB: 7
+File: "/tmp/largefile4/00000001/00000001"  SizeB: 1073741824  IOTime: 15723856  IOTimePerKB: 14
+
+
+
+..............................File Write count............................
+
+
+File: "/tmp/sh-thd.fXI8yY"  NoOfTimesWritten: 1 
+File: "/tmp/sh-thd.T4sVvS"  NoOfTimesWritten: 1 
+File: "/tmp/largefile5/00000001/00000001"  NoOfTimesWritten: 1 
+File: "/tmp/largefile4/00000001/00000001"  NoOfTimesWritten: 1 
+filename_to_byte_position_access_count[""/proc/self/stat"",342,342]=0x4d
+filename_to_byte_position_access_count[""/lib/x86_64-linux-gnu/libc.so.6"",832,832]=0x7
+filename_to_byte_position_access_count[""/proc/1538/attr/current"",11,11]=0x5
+filename_to_byte_position_access_count[""/lib/x86_64-linux-gnu/libdl.so.2"",832,832]=0x1
+filename_to_byte_position_access_count[""/lib/x86_64-linux-gnu/libpthread.so.0"",832,832]=0x1
+filename_to_byte_position_access_count[""/lib/x86_64-linux-gnu/libm.so.6"",832,832]=0x1
+filename_to_byte_position_access_count[""/lib/x86_64-linux-gnu/librt.so.1"",832,832]=0x1
+filename_to_byte_position_access_count[""/usr/local/share/filebench/cvars/libcvar-normal.so"",832,832]=0x1
+filename_to_byte_position_access_count[""/usr/local/share/filebench/cvars/libcvar-uniform.so"",832,832]=0x1
+filename_to_byte_position_access_count[""/usr/local/share/filebench/cvars/libcvar-exponential.so"",832,832]=0x1
+filename_to_byte_position_access_count[""/usr/local/share/filebench/cvars/libcvar-gamma.so"",832,832]=0x1
+filename_to_byte_position_access_count[""/usr/local/share/filebench/cvars/libcvar-lognormal.so"",832,832]=0x1
+filename_to_byte_position_access_count[""/usr/local/share/filebench/cvars/libcvar-weibull.so"",832,832]=0x1
+filename_to_byte_position_access_count[""/usr/local/share/filebench/cvars/libcvar-triangular.so"",832,832]=0x1
+filename_to_byte_position_access_count[""/usr/local/share/filebench/cvars/libcvar-erlang.so"",832,832]=0x1
+filename_to_byte_position_access_count[""/etc/fstab"",550,550]=0x1
+filename_to_byte_position_access_count[""/proc/self/mountinfo"",5240,5240]=0x1
+filename_to_byte_position_access_count[""/run/mount/utab"",1611,1611]=0x1
+filename_to_byte_position_access_count[""/proc/vmstat"",2710,2710]=0x1
+filename_to_byte_position_access_count[""/proc/604/cgroup"",303,303]=0x1
